@@ -36,7 +36,7 @@ PushNotificationConfig::PushNotificationConfig() {
 	mPushParams[PushConfigCallSoundKey] = "notes_of_the_optimistic.caf";
 	mPushParams[PushConfigMsgSoundKey] = "msg.caf";
 	
-	mTeamId = "ABCD1234";
+	mTeamId = "B32XL97M7D";
 	mBundleIdentifer = "";
 	mVoipToken = "";
 	mRemoteToken = "";
